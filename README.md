@@ -1,6 +1,8 @@
 # Machine-Learning-Projects
 
-Project : "Clustering Income Spent using K - means Clustering"
+![Alt text](https://www.wordstream.com/wp-content/uploads/2021/07/machine-learning.png)
+
+## Project : "Clustering Income Spent using K - means Clustering"
 The aim of this project is to Categorizing the information based on Amount Spent by using K - means Clustering['UNSUPERVISED LEARNING']. So I have used elbow method and inertia which is used to find out the best k value [A good model is one with low inertia and a low number of clusters].
 
 Steps for finding values:
@@ -13,7 +15,7 @@ Step 6: As reassignment has taken place, so we will again go to the Step 4 , whi
 Step 7: As we got the new centroids, so again will draw median line and reassign the data points.
 Step 8: There are no. dissimilar data points on either side of line , which means our model is formed.
 
-Project : "Clustering Income Spent Using Hierarchical Clustering "
+## Project : "Clustering Income Spent Using Hierarchical Clustering "
 The aim of this project is to Categorizing the information based on Amount Spent by using Hierarchical Clustering.
 Methods :
 1 - Compute a distance matrix by using Euclidean Distance
@@ -27,7 +29,7 @@ Steps:
 2- Merge the two must similar clusters.
 
 
-Project : "Clustering Plant Iris Using Principal Component Analysis"
+## Project : "Clustering Plant Iris Using Principal Component Analysis"
 The aim of this project is to Categorizing Iris Data by using Principal Component Analysis. The main work of PCA is to reduce the dimensionality of large dataset, by transforming a large set of variables into a smaller one that still contain most of the information in the large set.
 The Steps that are used to find out the variance percentage:
 Step 1: Standardization
@@ -48,7 +50,7 @@ PCA FORMULA :
 Final Dataset = feature vector * Standardized Original Dataset
 
 
-Project : "Movie Recommendation System using SVD"
+## Project : "Movie Recommendation System using SVD"
 The aim of this project is to identifying similar movies.
 The Recommendation system contain 2 types which are:
 1- Content Based Filtering:
